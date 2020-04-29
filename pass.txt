@@ -1,2 +1,0 @@
-pswd
-auto create data
